@@ -19,7 +19,7 @@ how competent one might be in front of the stove, the produce section is another
 --->
 
 {% include image.html
-            img="github.com/DiegoRGonzalez/sousshopper/img/ProjectProposal/SuperValueFlatbushProduce2.jpg"
+            img="/sousshopper/img/ProjectProposal/SuperValueFlatbushProduce2.jpg"
             title="Produce Aisle"
             caption="Figure 1: The produce aisle can be daunting at times. <br/> (Image by wikimedia user Jaskarn.dhatt, [source](https://commons.wikimedia.org/wiki/File:SuperValueFlatbushProduce2.jpg))" %}
 
@@ -42,7 +42,7 @@ There are a number of factors to consider when purchasing produce:
 --->
 
 {% include image.html
-            img="github.com/DiegoRGonzalez/sousshopper/img/ProjectProposal/vegetable-graph.jpg"
+            img="/sousshopper/img/ProjectProposal/vegetable-graph.jpg"
             title="Seasonality Chart"
             caption="Figure 2: Seasonality can be an awful lot to keep track of in your head. <br/> (Image by Russel van Kraayenburg, [source](http://www.businessinsider.com/when-fruits-and-vegetables-are-in-season-2012-6))" %}
 
