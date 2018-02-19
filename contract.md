@@ -23,6 +23,7 @@ Our goal is to build an application that will educate users about the produce in
 
 ### Dividing Up the Task
 Upon discussion, we discovered that we all have very similar skillsets. With this in mind, we plan on assigning tasks on a case by case basis.
+That being said, each member has been assigned a task-domain over which they will be in charge. This will entail making sure that those tasks are done, whether by delegation or by completing the tasks themselves.
 
 ### Meeting Management
 Every Saturday, our group will meet from 4-6pm in Schow library to go over the past week's assignments and how their execution went. During this meeting we will also develop a plan for the following week and assign tasks accordingly.
