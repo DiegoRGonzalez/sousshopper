@@ -3,7 +3,7 @@ layout: page
 title: Team Contract
 ---
 
-Reference: http://faculty.wwu.edu/tyrank/MGMT313/TeamContract313.htm
+[Reference](http://faculty.wwu.edu/tyrank/MGMT313/TeamContract313.htm)
 
 ### Preliminary Information
 We will communicate via Facebook messenger

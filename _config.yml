@@ -23,6 +23,10 @@ description: a helping hand outside the kitchen
 
 # List of links in the navigation bar
 navbar-links:
+  Members:
+    - David Ariyibi: "http://davariyibi.github.io"
+    - Diego Gonzalez: "http://DiegoRGonzalez.github.io"
+    - Justin Smilan: "https://jsmilan.github.io/"
   Contract: "contract"
   Proposal: "proposal"
   Citations: "citations"
