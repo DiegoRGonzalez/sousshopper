@@ -34,7 +34,7 @@ avatar: "/img/logo_0.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/logo_0.png"
+title-img: /img/logo_0.png
 
 # --- Background colour/image options --- #
 
