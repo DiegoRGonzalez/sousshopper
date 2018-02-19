@@ -21,7 +21,7 @@ how competent one might be in front of the stove, the produce section is another
 {% include image.html
             img="/img/ProjectProposal/SuperValueFlatbushProduce2.jpg"
             title="Produce Aisle"
-            caption="Figure 1: The produce aisle can be daunting at times. <br/> (Image by wikimedia user Jaskarn.dhatt) 
+            caption="Figure 1: The produce aisle can be daunting at times. <br/> (Image by wikimedia user Jaskarn.dhatt)" 
             url="https://commons.wikimedia.org/wiki/File:SuperValueFlatbushProduce2.jpg" %}
 
 Furthermore, in a place like our humble Williamstown, MA, many of the ingredients in recipes dreamed up by chefs in cities simply 
