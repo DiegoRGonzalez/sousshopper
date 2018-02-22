@@ -15,9 +15,9 @@ We plan to focus on younger individuals for out contextual inquiry, from 20 - 35
 Once we have found willing participants, we will explain our project in more detail and the purpose of our contextual inquiry. We will then shadow them as they select produce, and ask questions using the master/apprentice approach. The information we are looking for specifically is in regard to the process by which shoppers select their produce. Once they have completed their produce selection, we will ask a few interview questions that cover whatever topic was not covered during the shadowing. These questions may be some of the following:
 
 * Do you have a grocery list, or do you decide on the spot?
-..* If yes, what do you plan to buy?	
+  * If yes, what do you plan to buy?	
 * How do you choose your produce?
-..* Did you learn from anyone (i.e. a parent)?
-..* Do you choose produce based on what’s in season?
-..* Is it important to you that your produce is local?
+  * Did you learn from anyone (i.e. a parent)?
+  * Do you choose produce based on what’s in season?
+  * Is it important to you that your produce is local?
 * Are you open to discovering new kinds of produce?
