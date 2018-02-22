@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Class Activity
+title: Project Ideation
 ---
 
 Today we did a brainstorming activity. Here are our resulting sketches from that activity.
