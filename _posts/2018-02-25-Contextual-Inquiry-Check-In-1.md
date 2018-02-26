@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contextual Inquiry \#1 Check-In
+title: Contextual Inquiry Check-In 1
 ---
 
 ### Who did you observe/interview? What is their background? the environment?
@@ -9,7 +9,7 @@ For our first inquiry, we observed Brian, a current Williams College student. Br
 ### What did you learn?
 We learned a lot about habits we think are specific to Brian but also habits we think are general to many shoppers. Certain tasks we uncovered when choosing produce included selecting ripeness not solely on looks and lack of blemishes but also on previously planned meals for the week. For Brian, certain produce, like tomatoes for example, were bought based off of size and softness since the plan was to slice them later for sandwiches, while another fruit, bananas, were bought when they were a little less ripe and more hard because the goal was to make them last for the entire week. Many decisions were also made off of personal preferences, like choosing crisper apples over softer ones. Brian explained that he learned certain aspects of choosing produce from his past experience with food in industry and in general, for example, learning at a younger age that avocados get darker and softer as they ripen. He admittedly had no knowledge of buying produce with respect to what was in season, but he did say he was willing to learn since it is his mother does. Brian also had no predetermined order of picking groceries; he just walked through, picking things out as he spotted them.
 
-A habit we thought was pretty universal and plan to look into is the basis of blemishes, or lack thereof, being the measurement of produce quality. Coupled with lower-priced goods, these aspects determined the bulk of what was chosen. 
+A habit we thought was pretty universal and plan to look into is the basis of blemishes, or lack thereof, being the measurement of produce quality. Coupled with lower-priced goods, these aspects determined the bulk of what was chosen.
 
 ### Did you encounter any difficulties establishing rapport or getting the information you need?
 In terms of establishing a rapport, there wasn't much of a problem. Brian would constantly speak about what he was doing or thinking throughout the inquiry.
