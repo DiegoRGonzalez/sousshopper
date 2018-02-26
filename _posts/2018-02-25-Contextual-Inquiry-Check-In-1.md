@@ -3,7 +3,7 @@ layout: page
 title: Contextual Inquiry Check-In 1
 ---
 
-### Who did you observe/interview? What is their background? the environment?
+### Who did you observe/interview? What is their background? What was the environment?
 For our first inquiry, we observed Brian, a current Williams College student. Brian lives in an apartment off-campus and regularly shops at Stop and Shop. He has a bit of experience with produce from past work in the foodservice industry. The inquiry was conducted at Stop and Shop.
 
 ### What did you learn?
