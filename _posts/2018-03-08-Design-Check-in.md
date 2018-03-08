@@ -47,7 +47,7 @@ To accomplish this task, the user can do one of two things. They can add the pro
 
 This design is based on encouraging the user to discover new types of seasonal produce. When the user opens the app, they are greeted with a bunch of recipes based on ingredients that are in season to generate interest from the user. Additionally, they can browse through vegetables in season or be shown one at random. The user is then able to discover more specific information about produce on their individual pages.
 
-![Discovery-Based App Mock-Up](sousshopper/img/DiscoveryMockup.jpg)
+![Discovery-Based App Mock-Up](/sousshopper/img/DiscoveryMockup.jpg)
 
 ### Learn how to cook unfamiliar produce
 
