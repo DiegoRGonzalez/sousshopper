@@ -23,11 +23,11 @@ James is a reclusive software engineer who spends most of his time hunched over 
 Duviel is a Veterinarian who handles much of the cooking in his house. As a father of two young girls, he has always struggled to get them to eat their vegetables. One summer day during lunch, his younger child, Daniela, throws a tantrum and refuses to eat more broccoli. Seeing as broccoli is in season in the fall, Duviel decides to cook with broccoli when it is at its best. A few months later he is reminded that broccoli season has begun. Next time he is in the grocery store, he buys fresh broccoli. That night at dinner, Daniela is amazed at how tasty the broccoli is.
 
 
-## Design 1: Grocery List
+## Design 1: Grocery List App
 
 This design is centered around the creation of a grocery list and the management of bought produce. First a user fills their list with what they would like to buy. From here, they can look up information about the produce as well as selection techniques. Once the produce has been bought, it moves to the pantry list that keeps track of what has been  bought and alerts the user when the produce is about to spoil.
 
-![Mock-Up 1](/sousshopper/img/listmockup.jpg)
+![Grocery List App Mock-Up](/sousshopper/img/listmockup.jpg)
 
 This design can accomplish the following tasks:
 
@@ -43,13 +43,32 @@ To accomplish this task, the user first must add the desired produce to their li
 ### Determine when Eggplants are in season - Easy Task
 To accomplish this task, the user can do one of two things. They can add the produce to their list and then bring up the produces info page to check its season. They could also sort the produce by season in the lookup menu and see where eggplants fall into.
 
-## Design 2: Produce Encyclopedia
+## Design 2: Discovery-Based App
+
+This design is based on encouraging the user to discover new types of seasonal produce. When the user opens the app, they are greeted with a bunch of recipes based on ingredients that are in season to generate interest from the user. Additionally, they can browse through vegetables in season or be shown one at random. The user is then able to discover more specific information about produce on their individual pages.
+
+![Discovery-Based App Mock-Up](sousshopper/img/DiscoveryMockup.jpg)
+
+### Learn how to cook unfamiliar produce
+
+To accomplish the user must simply open the app and begin exploring! This whole design is about discovering new produce and learning how to cook with it. The highlighted recipes give inspiration for various dishes, and the information on each fruit or vegetable’s produce page provides details that will give the user a greater understanding of how to use it as an ingredient.
+
+### Selecting produce based on ripeness
+
+To accomplish this task, the user must simply navigate to the item they want to know more about and read. This page will contain information about how to judge the ripeness of the fruit or vegetable by sight and feel, as well as examples of different degrees of ripeness.
+
+### Determine when favorite fruits and vegetables are in season
+
+To accomplish this task, the user must use the favorites system. On each fruit or vegetable’s individual page, there is a favorites toggle on the top right of the screen. The app will then let you know when this produce is in season.
+### Learn nutritional information about produce
+
+To accomplish this task, the user must simply navigate to the item they want to know more about and read. This page will contain nutritional information about the fruit or vegetable.
+
+## Design 3: Produce Encyclopedia App
 
 This design focuses on the concept of amassing produce knowledge as well as categorizing your produce for any future reasons. It uses the idea of a pantry as the sort of home, with various crates holding a certain category of produce, be it fruits, vegetables, local goods, seasonal goods, etc. The pantry also comes with a favorites category as the top crate. From clicking any of the crates, the contents are pored out in a list where you can click on any of the produce in said list. Upon clicking on the produce, a page of nutritional facts about the item appears with tabs to other aspects about the item like its seasonal and freshness information for when/how best to buy it. Each page also comes with a button to add it to your favorites or set a reminder for some point in the future. From the home pantry, there is also a search icon which allows you to search the entire produce encyclopedia for any item typed in.
 
-![Mock-Up 2](/sousshopper/img/infomockup.jpg)
-
-This design accomplishes the following tasks:
+![Produce Encyclopedia App Mock-Up](/sousshopper/img/infomockup.jpg)
 
 ### Selecting Produce Based on Ripeness and Shelf Life
 To accomplish this task, the user opens the app and either categorically chooses an item through the crates or directly searches for an item. From here, they click on the freshness/seasonal tab to find the information needed.

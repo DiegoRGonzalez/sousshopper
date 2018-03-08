@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Project Citations
+title: Content
 ---
 
-### Logo Design
- - Created by editing and combining free icons.
- - Source: [FlatIcon](https://www.flaticon.com/)
- - [Terms and Conditions](https://profile.flaticon.com/license/free) for use of icons.
-
-### Banner Image
- - Source: [FreeImages](https://www.freeimages.com/photo/vegetables-1321535)
+### Brainstorming
+ - 2/19/2018
+ - [Page](/_posts/2018-Brainstorming-Activity.md)
