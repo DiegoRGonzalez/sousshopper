@@ -42,3 +42,24 @@ To accomplish this task, the user first must add the desired produce to their li
 
 ### Determine when Eggplants are in season - Easy Task
 To accomplish this task, the user can do one of two things. They can add the produce to their list and then bring up the produces info page to check its season. They could also sort the produce by season in the lookup menu and see where eggplants fall into.
+
+## Design 2: Discovery-Based App
+
+This design is based on encouraging the user to discover new types of seasonal produce. When the user opens the app, they are greeted with a bunch of recipes based on ingredients that are in season to generate interest from the user. Additionally, they can browse through vegetables in season or be shown one at random. The user is then able to discover more specific information about produce on their individual pages.
+
+![Discovery-Based App](sousshopper/img/DiscoveryMockup.jpg)
+
+### Learn how to cook unfamiliar produce
+
+To accomplish the user must simply open the app and begin exploring! This whole design is about discovering new produce and learning how to cook with it. The highlighted recipes give inspiration for various dishes, and the information on each fruit or vegetable’s produce page provides details that will give the user a greater understanding of how to use it as an ingredient.
+
+### Selecting produce based on ripeness
+
+To accomplish this task, the user must simply navigate to the item they want to know more about and read. This page will contain information about how to judge the ripeness of the fruit or vegetable by sight and feel, as well as examples of different degrees of ripeness.
+
+### Determine when favorite fruits and vegetables are in season
+
+To accomplish this task, the user must use the favorites system. On each fruit or vegetable’s individual page, there is a favorites toggle on the top right of the screen. The app will then let you know when this produce is in season.
+### Learn nutritional information about produce
+
+To accomplish this task, the user must simply navigate to the item they want to know more about and read. This page will contain nutritional information about the fruit or vegetable.
