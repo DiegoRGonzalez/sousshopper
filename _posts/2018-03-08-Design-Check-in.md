@@ -2,6 +2,7 @@
 layout: page
 title: Design Check In
 ---
+## Tasks
 
 ### Selecting Produce base on Ripeness and shelf life - Medium Task
 Genevieve is an undergraduate student who has moved into a new apartment for a summer internship at an investment firm. Because she has little free time, she only gets to go to the grocery store once every two weeks, which can make shopping for fruit very difficult. She wants to buy bananas in varying degrees of ripeness so that she can have one for breakfast every day until her next visit to the store. At the produce aisle, Genevieve opens her SousShopper phone app and searches for bananas. Once she has navigated to the appropriate page she compares the bananas in the store to the images on the ripeness spectrum, and selects 3 bananas which are ripe now, 4 which will be ripe in 4-6 days, 3 that will ripen in 1-1.5 weeks, and 4 that should be ripe in 1.5-2 weeks.
@@ -13,10 +14,31 @@ Tran is a dentist who enjoys throwing elaborate dinner parties in his downtime t
 Anna is a yoga instructor who has lived in the big city most of her life. Her parents moved out to the countryside for a quieter life a few years back, and Anna likes to visit them every so often. Whenever she goes, her mom comments on how bad she must be eating and proceeds to bring her to the local farmers market. Anna knows that each time she goes to the market, the produce there varies with the season. To prepare for her next trip, Anna opens the SousShopper app on her phone and creates a new seasonal shopping basket. She then searches through the local produce of her parents’ town and picks out fruits and vegetables she remembers from previous times there, flagging them for her new basket.
 
 ### Determine when Eggplants are in season - Easy Task
-Cindy is a grad student who is living alone for the first time. In the past, she has had the help of others to cook and is not too familiar with the seasonality of produce. While in the store she happens upon the eggplants, a favorite of hers, and decides to buy some. However, upon examining the selections, the eggplants seem strange for some reason. Cindy wonders when the eggplants are in season and pulls up the SousShopper app to find out. Soon she discovers that eggplants are at their best from late summer to early fall. Seeing as it is spring, she decides to pass up on the eggplants for the moment.
+Cindy is a grad student who is living alone for the first time. In the past, she has had the help of others to cook and is not too familiar with the seasonality of produce. While in the store she happens upon the eggplants, a favorite of hers, and decides to buy some. However, upon examining the selections, the eggplants seem strange for some reason. Cindy wonders when the eggplants are in season. Soon she discovers that eggplants are at their best from late summer to early fall. Seeing as it is spring, she decides to pass up on the eggplants for the moment.
 
 ### Learn Nutritional Info About Produce - Medium Task
 James is a reclusive software engineer who spends most of his time hunched over his desk. After his last company-mandated check up, he was told that his sedentary, no-exercise lifestyle and unhealthy eating habits could lead to the company reducing his healthcare coverage. With this wake-up call, James wants to get his health back in order, but he does not know the first thing about healthful eating or produce. As he walks the vegetable isle of the nearest supermarket, James opens the new Sousshopper app. He checks the nutrition facts of the carrots he just walked past. He sees that carrots are rich in Vitamin A and low in calories, so he decides to pick a few.
 
 ### Convenient Reminder for when broccoli is in Season - Easy Task
-Duviel is a Veterinarian who handles much of the cooking in his house. As a father of two young girls, he has always struggled to get them to eat their vegetables. One summer day during lunch, his younger child, Daniela, throws a tantrum and refuses to eat more broccoli. Seeing as broccoli is in season in the fall, Duviel decides to set a reminder using SousShopper so that he knows when to start cooking with broccoli again. A few months later his phone vibrates and he is alerted to the fact that broccoli season has begun. Next time he is in the grocery store, he buys fresh broccoli. That night at dinner, Daniela is amazed at how tasty the broccoli is.
+Duviel is a Veterinarian who handles much of the cooking in his house. As a father of two young girls, he has always struggled to get them to eat their vegetables. One summer day during lunch, his younger child, Daniela, throws a tantrum and refuses to eat more broccoli. Seeing as broccoli is in season in the fall, Duviel decides to cook with broccoli when it is at its best. A few months later he is reminded that broccoli season has begun. Next time he is in the grocery store, he buys fresh broccoli. That night at dinner, Daniela is amazed at how tasty the broccoli is.
+
+
+## Design 1: Grocery List
+
+This design is centered around the creation of a grocery list and the management of bought produce. First a user fills their list with what they would like to buy. From here, they can look up information about the produce as well as selection techniques. Once the produce has been bought, it moves to the pantry list that keeps track of what has been  bought and alerts the user when the produce is about to spoil.
+
+![Mock-up](/sousshopper/img/listmockup.png)
+
+This design can accomplish the following tasks:
+
+### Build Grocery List Based On Seasonality
+To accomplish this task, the user first opens the app and is shown an empty list. From here they click the bottom left corner to add produce. Then they sort the produce by season and adds produce that is currently in season.
+
+### Learn Nutritional Info About Produce - Medium Task
+To accomplish this task, the user first must add the desired produce to their list. From here they must select the question mark button next to the produce. At this point, they will be brought to the info page of the produce where they can see nutritional information.
+
+### Convenient Reminder for when broccoli is in Season - Easy Task
+To accomplish this task, the user first must add the desired produce to their list. From here they must select the question mark button enxt to the produce. Then they must click the bell icon in the corner of the produce's image. They will then be asked whether they would like to set an alert. Once they have said yes, they will be reminded when the time comes.
+
+### Determine when Eggplants are in season - Easy Task
+To accomplish this task, the user can do one of two things. They can add the produce to their list and then bring up the produces info page to check its season. They could also sort the produce by season in the lookup menu and see where eggplants fall into.
