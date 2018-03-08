@@ -27,7 +27,7 @@ Duviel is a Veterinarian who handles much of the cooking in his house. As a fath
 
 This design is centered around the creation of a grocery list and the management of bought produce. First a user fills their list with what they would like to buy. From here, they can look up information about the produce as well as selection techniques. Once the produce has been bought, it moves to the pantry list that keeps track of what has been  bought and alerts the user when the produce is about to spoil.
 
-![Mock-up](/sousshopper/img/listmockup.png)
+![Mock-up](/sousshopper/img/listmockup.jpg)
 
 This design can accomplish the following tasks:
 
