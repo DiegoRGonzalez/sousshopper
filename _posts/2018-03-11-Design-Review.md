@@ -17,4 +17,4 @@ For our final design, we decided to mostly follow the “produce encyclopedia”
 
 #### Determining when favorite produce is in season
 
-![Storyboard 2](sousshopper/img/storyboard2.jpg)
+![Storyboard 2](/sousshopper/img/storyboard2.jpg)
