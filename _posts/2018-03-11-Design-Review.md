@@ -6,8 +6,8 @@ title: Design Review
 ### Key Tasks
 The two tasks we decided to emphasize are 
 
-1) selecting produce based on ripeness and 
-2) determining when favorite fruits or vegetables are in season. 
+1. selecting produce based on ripeness and 
+2. determining when favorite fruits or vegetables are in season. 
   
 We chose these tasks because they felt the most fundamental to our app. The mission of SousShopper is to help people who are not confident in produce aisle to learn how to pick out better fruits and vegetables while familiarizing them with the concept of seasonality, so this felt like a no-brainer. Additionally, we found that many of the other tasks were either derivative of these two or trivial. Building a grocery list based on seasonality is a specific task informed by learning about seasonality. We didn’t want to base our design on creating convenient reminders, because then the core functionality of our app would be push notifications. 
 
