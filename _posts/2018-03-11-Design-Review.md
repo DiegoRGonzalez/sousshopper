@@ -9,9 +9,9 @@ The two tasks we decided to emphasize are 1) selecting produce based on ripeness
 
 #### Selecting produce based on ripeness
 
-[Storyboard 1](/sousshopper/img/storyboard1.jpg)
+![Storyboard 1](/sousshopper/img/storyboard1.jpg)
 
 
 #### Determining when favorite produce is in season
 
-[Storyboard 2](sousshopper/img/storyboard2.jpg)
+![Storyboard 2](sousshopper/img/storyboard2.jpg)
