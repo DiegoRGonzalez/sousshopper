@@ -30,7 +30,7 @@ navbar-links:
   Contract: "contract"
   Proposal: "proposal"
   Citations: "citations"
-  Content: "contents"
+  # Content: "contents"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
