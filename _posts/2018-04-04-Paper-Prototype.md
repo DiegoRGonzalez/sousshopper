@@ -3,7 +3,7 @@ layout: page
 title: Paper Prototype
 ---
 
-Our paper prototype is designed to accentuate our two main tasks while also proving a similar tactile feel for how the product is intended to function. The tasks are determining when a certain produce is in season and determining what is the best of a certain produce to buy based on the ripeness and the buyers personal preference.
+Our paper prototype is designed to accentuate our two main tasks while also providing a similar tactile feel to how the product is intended to function. The tasks are determining when a certain produce is in season and determining what is the best of a certain produce to buy based on the ripeness and the buyer's personal preference.
 
 ![Overview](/sousshopper/img/PaperPrototype/overview.jpg)
 
