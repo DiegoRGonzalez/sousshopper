@@ -52,13 +52,13 @@ The Banana's ripeness scale at various points describes the stages as "good" or 
 ### Pantry List Confusing
 When the app opens, users are shown a list of various pantries with labels such as "Favorites", "Local", and even "Athletic". These were meant to be different orderings of produce to assist with whatever purpose people were searching for produce. Unfortunately, in our paper prototype, regardless of what was chosen, the same list would be shown.
 
-![Pantries before](/sousshopper/img/Pantriesbefore.jpg)
+![Pantries before](/sousshopper/img/PantriesB4.jpg)
 
 ![Single list](/sousshopper/img/SingleProduceList.jpg)
 
 To clear up confusion, we have removed the extra pantries, leaving only the main ones such as "Favorites", "Local", and "Seasonal":
 
-![Pantries after](/sousshopper/img/Pantriesafter.jpg)
+![Pantries after](/sousshopper/img/PantriesAfter.jpg)
 
 On top of that, we have added separate search screens for each pantry:
 
