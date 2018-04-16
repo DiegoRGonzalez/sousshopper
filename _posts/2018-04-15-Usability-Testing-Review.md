@@ -25,30 +25,43 @@ Our third participant, Daniela, is yet another Williams College student. She did
  - App's starting screen caused confusion as to where in the app the user was. - *Severity:* 2
  - A participant felt that the main page was too cluttered and would benefit from more pictures. - *Severity:* 2
  - A participant mentioned that the pantry list was very confusing to read, especially due to many vague categories. - *Severity:* 2
+#### Revision:
+ - Unnecessary/vague crates were removed from main screen.
+ ![Main Screen Before & After](/sousshopper/img/FinalPaperPrototype/main_page_bna.png)
 
 ### Seasonal Chart Infographic
  - Participants thought the seasonal chart was confusing to read. - *Severity:* 1
 
 ### Ripeness Scale
  - Descriptions beneath the pictures in the scale were subjective towards one type of ripeness. - *Severity:* 3
- - There was no explanation for why there was no ripeness scale for apples. - *Severity* 2
+ - There was no explanation for why there was no ripeness scale for apples. - *Severity:* 2
+#### Revision:
+ - Descriptions were altered to be less subjective.
+ ![Example of Ripeness Scale Before & After](/sousshopper/img/FinalPaperPrototype/banana_scale_bna.png)
 
 ### Favorites
- - There was a *Favorites* crate at the top of the home screen without the functionality of actually adding produce to the crate. *Severity* 2
+ - There was a *Favorites* crate at the top of the home screen without the functionality of actually adding produce to the crate. *Severity:* 2
+#### Revision:
+ - Clickable stars, indicating whether or not a certain produce was in the *Favorites*, were added as well as a separate produce list interface.
+ ![New Favorites Indicator Stars](/sousshopper/img/FinalPaperPrototype/favorites.png)
 
 ### Back Buttons
- - Other than the *404 Page* there were no buttons to get back to a previous page. - *Severity* 3
+ - Other than the *404 Page* there were no buttons to get back to a previous page. - *Severity:* 3
+#### Revision:
+ - Added back buttons arrows to the top-left corner of all pages but the main screen.
+ ![New Back Arrow Buttons](/sousshopper/img/FinalPaperPrototype/favorites.png)
 
 ### Scrolling
- - Ability to scroll was not obvious. - *Severity* 1
+ - Ability to scroll was not obvious. - *Severity:* 1
 
 
 ## Final Paper Prototype
+- Please use the attached link [here](/sousshopper/_posts/2018-04-15-Final-Paper-Prototype.md) to see the final paper prototype page.
 
 
 ## Revisions
 ### Main Screen/Pantry List
+The main issues with the main screen were that the pantry metaphor used to describe the page was not intuitive to the participant in certain important aspects. To a first-time user, the navigation from the main page was not designed in a way as to be functionally intuitive. Therefore there was no indication of where to go for completing tasks. A participant felt that the main page was far too cluttered with unnecessary crates, like *Athletic* and *Dieting*. The participant also stressed that more pictures would benefit the app since the app is meant to be more visual-based. The revisions employed removed the unnecessary/vague crates from main screen. While there are now less options, the three crates remaining, *Favorites*, *Local*, and *Seasonal*, all have direct, relevant purposes and allow for the user to not have to choose between many options.
 
-
-### Seasonal Chart Infographic
-Some initially did not even notice it was there since the words describing the seasonality of the produce was already next to the infographic. After some discussion, he agreed that the addition of colors would help to distinguish the various parts of the chart.
+### Back Buttons/404 Page
+The error of not including back buttons was a grave mistake on the design of the app. Other than the *404 Page*, there were no buttons to get back to a previous page. This prevented participants from backtracking if an error was made or transitioning from one task to another. The revisions employed added back buttons arrows to the top-left corner of all pages but the main screen. Therefore, participants could freely navigate the pages. As of later thought, the *404 Page* came up consistently as a mild annoyance to the participants and gave off the impression that the these pages would not actually be found in the real version of the app. Thus after the heuristic evaluations and the first testing, the *404 Page* was removed and replaced with a verbal explanation by the computer for why a certain page could not be accessed.
