@@ -41,7 +41,7 @@ Clicking on that button brings us to this page, where we can see the tomato’s 
 
 
 
-##Changes from Paper Prototype to Digital Mock-Up
+## Changes from Paper Prototype to Digital Mock-Up
 From our paper prototype to our digital mock-up, we made a few substantial changes.
 
 ### Adopted “Feature, Search, and Browse” Pattern
