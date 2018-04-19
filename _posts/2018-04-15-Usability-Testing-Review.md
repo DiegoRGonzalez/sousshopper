@@ -56,7 +56,7 @@ Our third participant, Daniela, is yet another Williams College student. She did
 
 
 ## Final Paper Prototype
-- Please use the attached link [here](/sousshopper/2018-04-15-Final-Paper-Prototype.md) to see the final paper prototype page.
+- Please use the attached link [here](/sousshopper/2018-04-15-Final-Paper-Prototype/) to see the final paper prototype page.
 
 
 ## Revisions

@@ -9,6 +9,12 @@ Sous Shopper has finished our first digital prototype, and it doesn’t look too
 
 Be careful who you call ugly in high school, amirite? Here is how we will accomplish our primary tasks using this design.
 
+### Overview
+![Overview 1](/sousshopper/img/HiFi Assets/HiFi Assets/collage 1.png)
+![Overview 2](/sousshopper/img/HiFi Assets/HiFi Assets/collage 2.png)
+![Overview 3](/sousshopper/img/HiFi Assets/HiFi Assets/collage 3.png)
+![Overview 4](/sousshopper/img/HiFi Assets/HiFi Assets/collage 4.png)
+
 ### Task 1: Selecting produce based on ripeness
 
 ![Home Page](/sousshopper/img/HiFi Assets/HiFi Assets/Page1.png)
@@ -31,7 +37,7 @@ Here we see information about a slightly riper banana. We can go forwards to see
 
 ![Home Page](/sousshopper/img/HiFi Assets/HiFi Assets/Page1.png)
 
-Apologies for the redundancy, but this task is accomplished in much the same way. Let’s say we want to find out when tomatoes are in season. We can navigate to the tomato page in the same fashion as before, or we can observe the large, eye-catching banner which is telling us they’re in season right now. 
+Apologies for the redundancy, but this task is accomplished in much the same way. Let’s say we want to find out when tomatoes are in season. We can navigate to the tomato page in the same fashion as before, or we can observe the large, eye-catching banner which is telling us they’re in season right now.
 
 ![Tomatoes 1](/sousshopper/img/HiFi Assets/HiFi Assets/Tomato1.png)
 
